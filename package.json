@@ -1,0 +1,18 @@
+{
+  "name": "cascade",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Harish Kotra",
+  "scripts": {
+    "dev": "concurrently -n server,web \"npm run dev --workspace=cascade-server\" \"npm run dev --workspace=cascade-frontend\"",
+    "build": "npm run build --workspace=cascade-server && npm run build --workspace=cascade-frontend",
+    "install:all": "npm install --prefix server && npm install --prefix frontend"
+  },
+  "workspaces": [
+    "server",
+    "frontend"
+  ],
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
