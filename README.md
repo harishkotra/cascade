@@ -14,6 +14,13 @@ sibling dances. A server-side compliance audit then disqualifies it *openly* in 
 The result is a screen-recordable, visual proof of model progression under a
 constraint that leaves nowhere to hide. Built for YouTube and Instagram.
 
+https://github.com/user-attachments/assets/65065ceb-e827-4a70-afa5-f2b271c687b4
+
+<img width="1984" height="1979" alt="screencapture-localhost-5173-2026-09-27-07_20_26" src="https://github.com/user-attachments/assets/6e576cb5-6ca2-4a39-9a7c-e23936d2b999" />
+<img width="1894" height="1173" alt="Screenshot at Sep 27 07-20-47" src="https://github.com/user-attachments/assets/bcf3b066-f96f-4d8c-9f90-f0263dc2b46f" />
+<img width="1889" height="1178" alt="Screenshot at Sep 27 07-21-02" src="https://github.com/user-attachments/assets/f91fe5c5-1790-4b5e-8c20-9c1de5540bc9" />
+
+
 ---
 
 ## Table of contents
